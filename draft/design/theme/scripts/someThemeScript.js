@@ -1,0 +1,1 @@
+console.log('Some theme script active!');
